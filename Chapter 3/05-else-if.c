@@ -5,6 +5,7 @@ int main()
     int a;
     printf("The age of the candidate according to Aadhar card is ");
     scanf("%d", &a);
+    //You cannot use more than one retational operator in C language.
     if (a > 60)
     {
         printf("You are eligible for driving licence but don't drive.(Are o chacha jara sambhal ke)");
