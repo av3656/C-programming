@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea7355bf-9105-4a14-ae96-53ceece5ddc9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 3/03-non-zero.c" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/03-non-zero.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 3/05-else-if.c" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/05-else-if.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 3/08-quiz.c" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/08-quiz.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3 problems/03-problem.c" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 problems/03-problem.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3 problems/04-problem.c" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 problems/04-problem.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3 problems/05-problem.c" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 problems/05-problem.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3 problems/06-problem.c" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 problems/06-problem.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3 problems/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 problems/a.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter 3/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/a.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ranjit Singh/OneDrive/Desktop/AMAN&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ranjit Singh/OneDrive/Desktop/AMAN"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

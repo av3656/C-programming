@@ -13,19 +13,19 @@ int main()
     scanf("%d", &d);
     if (a > b && a > c && a > d)
     {
-        printf("1st number is the largest number.");
+        printf("1st number is the largest number %d.", a);
     }
     else if (b > a && b > c && b > d)
     {
-        printf("2nd number is the largest number.");
+        printf("2nd number is the largest number %d.", b);
     }
     else if (c > a && c > b && c > d)
     {
-        printf("3rd number is the largest number.");
+        printf("3rd number is the largest number %d.", c);
     }
     else
     {
-        printf("4th number is the largest number.");
+        printf("4th number is the largest number %d.", d);
     }
 
     return 0;
